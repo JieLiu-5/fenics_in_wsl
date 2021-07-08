@@ -1,7 +1,0 @@
-/tmp/tmpiv9jvm9j/dolfin_expression_f55ea95bb90b6135e3f9365e336ba6c4.cpp: In member function ‘virtual void dolfin::dolfin_expression_f55ea95bb90b6135e3f9365e336ba6c4::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
-/tmp/tmpiv9jvm9j/dolfin_expression_f55ea95bb90b6135e3f9365e336ba6c4.cpp:61:23: error: ‘e’ was not declared in this scope
-           values[0] = e^(x[0]-0.5,2);
-                       ^
-/tmp/tmpiv9jvm9j/dolfin_expression_f55ea95bb90b6135e3f9365e336ba6c4.cpp:61:30: warning: value computed is not used [-Wunused-value]
-           values[0] = e^(x[0]-0.5,2);
-                          ~~~~^~~~

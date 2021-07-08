@@ -1,4 +1,0 @@
-/tmp/tmptx5i3ukg/dolfin_expression_9f848e316f0c303a423ea07344b1f2fe.cpp: In member function ‘virtual void dolfin::dolfin_expression_9f848e316f0c303a423ea07344b1f2fe::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
-/tmp/tmptx5i3ukg/dolfin_expression_9f848e316f0c303a423ea07344b1f2fe.cpp:61:23: error: cannot convert ‘Eigen::Ref<const Eigen::Matrix<double, -1, 1> >’ to ‘Eigen::DenseCoeffsBase<Eigen::Ref<Eigen::Matrix<double, -1, 1> >, 1>::Scalar {aka double}’ in assignment
-           values[0] = x;
-                       ^

@@ -1,7 +1,0 @@
-/tmp/tmps6_lvsm9/dolfin_expression_276a6a683d1a664858d989a763e4173d.cpp: In member function ‘virtual void dolfin::dolfin_expression_276a6a683d1a664858d989a763e4173d::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
-/tmp/tmps6_lvsm9/dolfin_expression_276a6a683d1a664858d989a763e4173d.cpp:61:57: error: expected ‘)’ before ‘]’ token
-           values[0] = -1.0*(1.0*2.0*(x[0]-0.5)+(1.0+x[0]])*2.0);
-                                                         ^
-/tmp/tmps6_lvsm9/dolfin_expression_276a6a683d1a664858d989a763e4173d.cpp:61:64: error: expected ‘)’ before ‘;’ token
-           values[0] = -1.0*(1.0*2.0*(x[0]-0.5)+(1.0+x[0]])*2.0);
-                                                                ^
