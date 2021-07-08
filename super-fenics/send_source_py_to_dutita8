@@ -1,0 +1,2 @@
+sshpass -p666993ddddLj* scp ../poisson/demo_poisson.py liu@dutita8.twi.tudelft.nl:/home/dv/liu/fenics/poisson
+#sshpass -p666993ddddLj* scp ../mixed-poisson/demo_mixed-poisson.py liu@dutita8.twi.tudelft.nl:/home/dv/liu/fenics

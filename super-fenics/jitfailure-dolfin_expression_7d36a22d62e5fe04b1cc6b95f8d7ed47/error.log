@@ -1,0 +1,4 @@
+/tmp/tmpf4jn7dip/dolfin_expression_7d36a22d62e5fe04b1cc6b95f8d7ed47.cpp: In member function ‘virtual void dolfin::dolfin_expression_7d36a22d62e5fe04b1cc6b95f8d7ed47::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpf4jn7dip/dolfin_expression_7d36a22d62e5fe04b1cc6b95f8d7ed47.cpp:61:47: error: expected ‘;’ before numeric constant
+           values[0] = -1.0 *0.0*2.0*(x[0]-0.5)1.0*2.0;
+                                               ^~~

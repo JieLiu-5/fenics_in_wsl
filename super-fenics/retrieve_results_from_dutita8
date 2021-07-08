@@ -1,0 +1,1 @@
+sshpass -p666993ddddLj* scp liu@dutita8.twi.tudelft.nl:/home/dv/liu/fenics/super-fenics/data_output_error_1_fenics_0_sm_0_real.txt .

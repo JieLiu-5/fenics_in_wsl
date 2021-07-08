@@ -1,0 +1,2 @@
+export DISPLAY=:0
+kate ../poisson/demo_poisson.py

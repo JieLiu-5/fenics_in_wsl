@@ -1,0 +1,3 @@
+/tmp/tmpn9clpjh1/dolfin_expression_7b08669b4a49a49a9812831f4b32c361.cpp:61:24: error: exponent has no digits
+           values[0] = -1.0exp(-pow(x[0]-0.5,2.0)) * (pow(2*(x[0]-0.5),2.0) - 2.0);
+                        ^~~~~~
