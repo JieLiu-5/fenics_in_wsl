@@ -1,0 +1,4 @@
+/tmp/tmpbim2sia3/dolfin_expression_2e5e2edc82fa3f2862c3c6a268d01a95.cpp: In member function ‘virtual void dolfin::dolfin_expression_2e5e2edc82fa3f2862c3c6a268d01a95::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpbim2sia3/dolfin_expression_2e5e2edc82fa3f2862c3c6a268d01a95.cpp:61:38: error: expected ‘;’ before ‘x’
+           values[0] = -(4.0*x[0]+1.0)x[0];
+                                      ^
