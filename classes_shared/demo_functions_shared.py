@@ -30,10 +30,6 @@ def errornorm_self_defined(u_e, u, norm_type):
     #print(e_W.vector().get_local())
     
     
-
-
-    
-    
     if norm_type == 'L2':
         error = e_W**2*dx
     elif norm_type == 'H10':
